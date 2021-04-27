@@ -11,7 +11,7 @@ _originally created April 26, 2021_
 
 ### Technologies Used
 * `C#`
-* _(Epicodus curriculum: C# Web Applications)[https://www.learnhowtoprogram.com/c-and-net-part-time-c-and-react-track/c-web-applications/to-do-list-mvc-setup]_
+* _[Epicodus curriculum: C# Web Applications](https://www.learnhowtoprogram.com/c-and-net-part-time-c-and-react-track/c-web-applications/to-do-list-mvc-setup)_
 * _VS Code_
 * _ASP.NET Core_
 * _MVC framework_
