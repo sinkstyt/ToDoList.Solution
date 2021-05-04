@@ -38,11 +38,11 @@ namespace ToDoList.Tests
       Item newItem2 = new Item(description02);
 
       //Act
-      Item result = Item.Find(2);
+      Item result = Item.Find(1);
 
 
       //Assert
-      Assert.AreEqual(newItem2, result);
+      Assert.AreEqual(newItem1, result);
     }
   }
 }
