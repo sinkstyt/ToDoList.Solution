@@ -33,7 +33,7 @@ namespace ToDoList.Controllers
       Item.ClearAll();
       return View();
     }
-    [HttpPost("/items/{id}")]
+    [HttpGet("/items/{id}")]
     public ActionResult Show(int id)
     {
       Item foundItem = Item.Find(id);
