@@ -5,7 +5,7 @@
 * click list items to see details
 * clear all tasks
 
-## Authors _Shannon Lee, Cat Denton, and Tyler Sinks_
+## Authors _Shannon Lee, Salim Mayan, Cat Denton, Tyler Sinks_
 * _originally created April 26, 2021_
 * _modified May 3-5, 2021_
 
@@ -38,8 +38,8 @@ _namespaces and dependencies will be handled by following these steps_
 6. Or examine the files in VS Code instead of step 5:
 > ` $ code . `
 7. To run the full gamut of tests written:
-> ` $ pwd ` //  {User}/ToDoList.Solution/
-> ` $ cd ToDoList.Tests `
+> ` $ pwd ` //  {User}/ToDoList.Solution/<br />
+> ` $ cd ToDoList.Tests `<br />
 > ` $ dotnet test `
 
 For those completely new to C# and dotnet, please see these detailed instructions:
