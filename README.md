@@ -1,5 +1,9 @@
 # To Do List in C#
 * uses *MVC* and _ASP.NET Core_ framework
+* barebones to do list app
+* allows adding tasks
+* click list items to see details
+* clear all tasks
 
 ## Authors _Shannon Lee, Cat Denton, and Tyler Sinks_
 * _originally created April 26, 2021_
@@ -29,7 +33,7 @@ _namespaces and dependencies will be handled by following these steps_
 4. Restore the project's dependencies:
 > ` $ dotnet restore ToDoList ToDoList.Tests`
 5. To build and run the project:
-> ` $ dotnet build `
+> ` $ dotnet build `<br />
 > ` $ dotnet run `
 6. Or examine the files in VS Code instead of step 5:
 > ` $ code . `
